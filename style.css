@@ -1,0 +1,55 @@
+#myimage {
+    width:400px;
+    border-radius: 50%;
+}
+body {
+    text-align: center;
+    color: blue !important;
+	
+    
+}
+#welcome{
+    background:linear-gradient(#0ee3eb 0%,#f2ea0a 100%); 
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    z-index: 9;
+    display: table;
+    
+}
+#myname{
+    font-size: 30;
+    line-height: 1.2;
+    font-family: 'Pattaya', sans-serif;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 100px;
+    margin: 8px auto;
+    
+}
+#bio{
+	margin-left: 550px;
+    text-align: center;
+    font-size: 30px;
+	max-width: 400;
+	
+}
+p{
+    font-size: 20px;
+    max-width: 450px;
+    margin: 25px auto;
+    line-height: 1.5;
+}
+
+#work{
+    font-size: 30px;
+    color: red;
+}
+#click{
+    background-color: greenyellow;
+}
+#contact iframe{
+    width: 100%;
+}
